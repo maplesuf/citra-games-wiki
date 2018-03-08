@@ -6,12 +6,12 @@ needs_shared_font = true
 [[releases]]
 title = "000400000006D400"
 region = "jpn"
-release_date = "2011-01-15"
+release_date = "2011-12-15"
 
 [[releases]]
 title = "000400000006D300"
 region = "jpn"
-release_date = "2011-01-15"
+release_date = "2011-12-15"
 
 [[releases]]
 title = "0004000000112F00"
