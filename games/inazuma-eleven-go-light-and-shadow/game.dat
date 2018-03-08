@@ -23,3 +23,13 @@ release_date = "2014-06-13"
 title = "0004000000113000"
 region = "eur"
 release_date = "2014-06-13"
+
+[[ testcases ]]
+title = "0004000000113000"
+compatibility = "1"
+date = "2018-08-03"
+version = "Canary Build 95c0b10"
+author = "Maplesuf"
+cpu = "Intel Core i7-4790 3.60 GHz"
+gpu = "Nvidia GeForce GTX 770"
+os = "Windows 8.1"
